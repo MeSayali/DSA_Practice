@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MeSayali/DSA_Practice/tree/master/0202-happy-number) |
+| [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MeSayali/DSA_Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MeSayali/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MeSayali/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MeSayali/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/MeSayali/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MeSayali/DSA_Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Binary Search
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/MeSayali/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MeSayali/DSA_Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## String
@@ -84,5 +87,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MeSayali/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MeSayali/DSA_Practice/tree/master/0202-happy-number) |
 | [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/MeSayali/DSA_Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/MeSayali/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MeSayali/DSA_Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2029-stone-game-ix](https://github.com/MeSayali/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MeSayali/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/MeSayali/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/MeSayali/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MeSayali/DSA_Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2029-stone-game-ix](https://github.com/MeSayali/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MeSayali/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/MeSayali/DSA_Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/MeSayali/DSA_Practice/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MeSayali/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/MeSayali/DSA_Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/MeSayali/DSA_Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/MeSayali/DSA_Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |

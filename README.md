@@ -167,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MeSayali/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/MeSayali/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

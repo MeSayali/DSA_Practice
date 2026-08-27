@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MeSayali/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MeSayali/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MeSayali/DSA_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MeSayali/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MeSayali/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MeSayali/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MeSayali/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MeSayali/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MeSayali/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MeSayali/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/MeSayali/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MeSayali/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MeSayali/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MeSayali/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/MeSayali/DSA_Practice/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MeSayali/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |

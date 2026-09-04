@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MeSayali/DSA_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MeSayali/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MeSayali/DSA_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3903-smallest-stable-index-i](https://github.com/MeSayali/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/MeSayali/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MeSayali/DSA_Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3903-smallest-stable-index-i](https://github.com/MeSayali/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |

@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/MeSayali/DSA_Practice/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/MeSayali/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MeSayali/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |

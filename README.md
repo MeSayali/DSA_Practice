@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MeSayali/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/MeSayali/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/MeSayali/DSA_Practice/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/MeSayali/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/MeSayali/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/MeSayali/DSA_Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/MeSayali/DSA_Practice/tree/master/1563-stone-game-v) |

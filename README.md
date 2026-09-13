@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MeSayali/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/MeSayali/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MeSayali/DSA_Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/MeSayali/DSA_Practice/tree/master/0118-pascals-triangle) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MeSayali/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/MeSayali/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeSayali/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MeSayali/DSA_Practice/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MeSayali/DSA_Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

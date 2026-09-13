@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/MeSayali/DSA_Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MeSayali/DSA_Practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/MeSayali/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/MeSayali/DSA_Practice/tree/master/0202-happy-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/MeSayali/DSA_Practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/MeSayali/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/MeSayali/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MeSayali/DSA_Practice/tree/master/0075-sort-colors) |

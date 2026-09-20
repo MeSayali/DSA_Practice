@@ -2,15 +2,15 @@ class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         int n=intervals.size();
+        vector<vector<int>>result;//2d to store merge intervals....
         sort(intervals.begin(),intervals.end());
-        vector<vector<int>>ans;
-        for(int i=0;i<n;i++){
-            if(ans.empty() || intervals[i][0] >ans.back()[1]){
-                ans.push_back(intervals[i]);
+        for(auto interval:intervals){
+            if(result.empty() || interval[0]>result.back()[1]){//[2,6]=2 and ans=[1,3] means 3 soo 2>3 false
+                result.push_back(interval);//[1,3]
             }else{
-                ans.back()[1]=max(ans.back()[1],intervals[i][1]);
+                 result.back()[1]=max(result.back()[1],interval[1]);
             }
         }
-        return ans;
+       return result;
     }
 };

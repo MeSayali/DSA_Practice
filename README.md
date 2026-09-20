@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MeSayali/DSA_Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MeSayali/DSA_Practice/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/MeSayali/DSA_Practice/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/MeSayali/DSA_Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MeSayali/DSA_Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MeSayali/DSA_Practice/tree/master/0258-add-digits) |
 | [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MeSayali/DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MeSayali/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/MeSayali/DSA_Practice/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/MeSayali/DSA_Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MeSayali/DSA_Practice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/MeSayali/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MeSayali/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/MeSayali/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeSayali/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/MeSayali/DSA_Practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/MeSayali/DSA_Practice/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/MeSayali/DSA_Practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0229-majority-element-ii) |

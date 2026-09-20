@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MeSayali/DSA_Practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/MeSayali/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/MeSayali/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/MeSayali/DSA_Practice/tree/master/0169-majority-element) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MeSayali/DSA_Practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/MeSayali/DSA_Practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/MeSayali/DSA_Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MeSayali/DSA_Practice/tree/master/0053-maximum-subarray) |

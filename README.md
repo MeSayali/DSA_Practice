@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MeSayali/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/MeSayali/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/MeSayali/DSA_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MeSayali/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/MeSayali/DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MeSayali/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/MeSayali/DSA_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeSayali/DSA_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/MeSayali/DSA_Practice/tree/master/0709-to-lower-case) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/MeSayali/DSA_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/MeSayali/DSA_Practice/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MeSayali/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MeSayali/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

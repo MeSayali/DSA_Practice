@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MeSayali/DSA_Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2029-stone-game-ix](https://github.com/MeSayali/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MeSayali/DSA_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MeSayali/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MeSayali/DSA_Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MeSayali/DSA_Practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MeSayali/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/MeSayali/DSA_Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/MeSayali/DSA_Practice/tree/master/1563-stone-game-v) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MeSayali/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MeSayali/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/MeSayali/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MeSayali/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MeSayali/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/MeSayali/DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MeSayali/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Quicksort
@@ -339,4 +342,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeSayali/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MeSayali/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MeSayali/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

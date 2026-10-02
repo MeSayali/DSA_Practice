@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MeSayali/DSA_Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MeSayali/DSA_Practice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/MeSayali/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/MeSayali/DSA_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeSayali/DSA_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MeSayali/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MeSayali/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MeSayali/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/MeSayali/DSA_Practice/tree/master/0171-excel-sheet-column-number) |
+| [0344-reverse-string](https://github.com/MeSayali/DSA_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeSayali/DSA_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/MeSayali/DSA_Practice/tree/master/0709-to-lower-case) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MeSayali/DSA_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |

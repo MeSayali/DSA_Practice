@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MeSayali/DSA_Practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/MeSayali/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/MeSayali/DSA_Practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/MeSayali/DSA_Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MeSayali/DSA_Practice/tree/master/0053-maximum-subarray) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MeSayali/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MeSayali/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MeSayali/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/MeSayali/DSA_Practice/tree/master/0125-valid-palindrome) |
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MeSayali/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MeSayali/DSA_Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

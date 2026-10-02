@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeSayali/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/MeSayali/DSA_Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MeSayali/DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MeSayali/DSA_Practice/tree/master/0088-merge-sorted-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MeSayali/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MeSayali/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MeSayali/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeSayali/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/MeSayali/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/MeSayali/DSA_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/MeSayali/DSA_Practice/tree/master/0242-valid-anagram) |
@@ -373,4 +375,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MeSayali/DSA_Practice/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeSayali/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeSayali/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeSayali/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeSayali/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

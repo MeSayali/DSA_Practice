@@ -3,9 +3,21 @@ public:
     bool isAnagram(string s, string t) {
         if(s.size()!=t.size()) return false;
         
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
+        unordered_map<int,int>mp;
+        for(char ch:s){
+            mp[ch]++;//store char and its freq
+        }
 
-        return s==t;
+        for(char ch:t){
+            mp[ch]--;//remove is same char find
+        }
+       
+        for(auto x:mp){
+            if(x.second!=0){
+                return false;
+            }
+        }
+        return true;
+
     }
 };

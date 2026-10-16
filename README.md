@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MeSayali/DSA_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MeSayali/DSA_Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MeSayali/DSA_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/MeSayali/DSA_Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MeSayali/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/MeSayali/DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MeSayali/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/MeSayali/DSA_Practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MeSayali/DSA_Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MeSayali/DSA_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/MeSayali/DSA_Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MeSayali/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/MeSayali/DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MeSayali/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -450,8 +452,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MeSayali/DSA_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/MeSayali/DSA_Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MeSayali/DSA_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/MeSayali/DSA_Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->

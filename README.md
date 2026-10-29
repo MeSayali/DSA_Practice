@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MeSayali/DSA_Practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/MeSayali/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/MeSayali/DSA_Practice/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/MeSayali/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MeSayali/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MeSayali/DSA_Practice/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/MeSayali/DSA_Practice/tree/master/0289-game-of-life) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MeSayali/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/MeSayali/DSA_Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/MeSayali/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MeSayali/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/MeSayali/DSA_Practice/tree/master/0289-game-of-life) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MeSayali/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/MeSayali/DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MeSayali/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |

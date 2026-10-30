@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
+        int n=nums.size();
         unordered_map<int,int>mp;
         for(int ch:nums){
             mp[ch]++;
@@ -11,6 +12,6 @@ public:
                 return true;
             }
         }
-       return false;
+        return false;
     }
 };

@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/MeSayali/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/MeSayali/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MeSayali/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MeSayali/DSA_Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MeSayali/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Floyd's Cycle Finding Algorithm
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/MeSayali/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/MeSayali/DSA_Practice/tree/master/1140-stone-game-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MeSayali/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/MeSayali/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/MeSayali/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/MeSayali/DSA_Practice/tree/master/1550-three-consecutive-odds) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MeSayali/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MeSayali/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MeSayali/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MeSayali/DSA_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MeSayali/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MeSayali/DSA_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/MeSayali/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MeSayali/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MeSayali/DSA_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MeSayali/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/MeSayali/DSA_Practice/tree/master/3024-type-of-triangle) |

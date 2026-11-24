@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MeSayali/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MeSayali/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MeSayali/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MeSayali/DSA_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MeSayali/DSA_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/MeSayali/DSA_Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MeSayali/DSA_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MeSayali/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/MeSayali/DSA_Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MeSayali/DSA_Practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MeSayali/DSA_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MeSayali/DSA_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MeSayali/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MeSayali/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MeSayali/DSA_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MeSayali/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MeSayali/DSA_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MeSayali/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MeSayali/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MeSayali/DSA_Practice/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MeSayali/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MeSayali/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MeSayali/DSA_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MeSayali/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MeSayali/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MeSayali/DSA_Practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MeSayali/DSA_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
 | ------- |
